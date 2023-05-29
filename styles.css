@@ -1,0 +1,39 @@
+#body{
+    background-color: #9D5353;
+}
+#hyf{
+    background-color: #632626;
+}
+
+section{
+    background-color: #DACC96;
+}
+
+#namehead{
+    color: white;
+}
+#gitfoot{
+    color: white;
+}
+
+#name{
+    padding-top: 5%;
+}
+
+h1{
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+h2{
+    font-family: 'Noto Sans', sans-serif;
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+}
+ul{
+    font-family: 'Noto Sans', sans-serif;
+}
+li{
+    font-family: 'Noto Sans', sans-serif;
+}
